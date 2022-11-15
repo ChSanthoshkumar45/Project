@@ -1,2 +1,2 @@
 # Project
-Implementation of Traffic Sign Recognition
+Implementation of Traffic Sign Recognition using CNN
