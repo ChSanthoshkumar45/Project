@@ -1,4 +1,5 @@
-#Implementation of Traffic Sign Recognition with voice alert using CNN
+** **Implementation of Traffic Sign Recognition with voice alert using CNN
+
 In this project, I used deep neural networks and three classic convolutional neural network architecture to classify traffic signs. I will train and validate a model so it can classify traffic sign images using the German Traffic Sign Dataset. After the model is trained, I used German Traffic Sign dataset from kaggle.
 First we need to import the data 
 Import the necessary libraries 
